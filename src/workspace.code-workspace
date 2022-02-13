@@ -1,13 +1,19 @@
 {
 	"folders": [
 		{
+			"path": "..\\..\\..\\..\\..\\Desktop"
+		},
+		{
 			"name": "PD_NbhdScanner",
 			"path": ".."
 		}
 	],
 	"settings": {
 		"files.associations": {
-			"iterator": "cpp"
+			"filesystem": "cpp",
+			"forward_list": "cpp",
+			"list": "cpp",
+			"xmemory": "cpp"
 		}
 	}
 }
